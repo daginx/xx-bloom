@@ -7,7 +7,7 @@
     "url": "https://github.com/ceejbot/xx-bloom/issues"
   },
   "dependencies": {
-    "xxhash": "~0.2.4"
+    "xxhash": "~0.3.0"
   },
   "devDependencies": {
     "coveralls": "~2.13.1",
